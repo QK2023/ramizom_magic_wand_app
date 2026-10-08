@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "ramizom_magic_wand" "\0"
+            VALUE "CompanyName", "Ching-kai Huang" "\0"
+            VALUE "FileDescription", "Ramizom Magic Wand" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "ramizom_magic_wand" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2026 com.example. All rights reserved." "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2026 Ching-kai Huang. MIT License." "\0"
             VALUE "OriginalFilename", "ramizom_magic_wand.exe" "\0"
-            VALUE "ProductName", "ramizom_magic_wand" "\0"
+            VALUE "ProductName", "Ramizom Magic Wand" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
